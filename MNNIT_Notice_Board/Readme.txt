@@ -1,0 +1,5 @@
+Problem Statement:
+MNNIT Notice Board
+Technologies Used:
+FRONTEND:HTML,CSS,BOOTSTRAP,JQUERY,JAVASCRIPT
+BACKEND:PHP,MYSQLI
